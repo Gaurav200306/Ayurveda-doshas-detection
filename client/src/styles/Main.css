@@ -1,0 +1,82 @@
+    .container ol li {
+        font-size: 1.4em;
+        color: #cecece;
+    }
+    
+    .words {
+        font-size: 1.4em;
+        width: 150em;
+    }
+    
+    .what {
+        color: #cecece;
+        display: flex;
+        width: 900px;
+    }
+    
+    .what h1 {
+        color: #0dff92;
+        font-size: 3em;
+    }
+    
+    .photo img {
+        height: 25em;
+        width: 28em;
+        border-radius: 83px;
+        position: absolute;
+        margin: 123px 0px 0px 90px;
+        border: 2px #0dff92;
+    }
+    
+    .dosha {
+        display: flex;
+        margin: 146px 0px 146px 0px;
+    }
+    
+    .doshaText {
+        text-align: left;
+        color: #cecece;
+        font-size: 1.4em;
+        margin: 0px 0px 0px 37px;
+    }
+    
+    .doshaheading {
+        color: #0dff92;
+        font-size: 1.6em;
+    }
+    
+    .start {
+        display: flex;
+        justify-content: center;
+        padding-top: 2em;
+    }
+    
+    .start .btn {
+        padding: .2em 1.7em;
+        border: none;
+        border-radius: .1em;
+        font-size: 1.2em;
+        color: #202020;
+        text-decoration: none;
+        background-color: #faff5a;
+    }
+    
+    #form {
+        display: flex;
+        justify-content: center;
+        margin-top: 4em;
+    }
+    
+    #form .userid {
+        padding: .7em 2em;
+        width: 50%;
+        border: none;
+        border-radius: 3px;
+        font-size: 1em;
+    }
+    
+    .footer {
+        text-align: center;
+        color: white;
+        margin: 50px 0px 0px 0px;
+    }
